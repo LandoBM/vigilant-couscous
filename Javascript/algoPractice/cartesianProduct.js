@@ -22,5 +22,7 @@ function cartProd(arr1, arr2){
 }
 
 const arr1 = [1,2]
-const arr2 = [3,4, 5]
+const arr2 = [3,4,5]
 console.log(cartProd(arr1, arr2))
+
+// Big O =  O(n*m), n and m are lengths of input arrays respectively
